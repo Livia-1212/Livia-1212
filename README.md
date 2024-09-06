@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Livia
-#### I was a lawyer in NYC and now I'm a beginner software developer
+#### I was a lawyer in NYC and now I'm a software developer
 ![I'm a student of MSCS at NJIT working towards to becoming a software developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I used GitHub Profile Generator to make this project, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
