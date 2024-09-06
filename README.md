@@ -12,5 +12,6 @@ Skills: JAVA / PYTHON / REACT / JS / HTML
 
 
 
-
+/**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=livia-1212)](https://github.com/anuraghazra/github-readme-stats)
+*/
