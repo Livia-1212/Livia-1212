@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Livia
 #### I was a lawyer in NYC and now I'm a software developer
-![Header](./Users/liviali/Documents/Study Note -2024/Eclipse Workspace/Github Header/github-header-image.png)
+![Header](./github-header-image.png)
 
 I used GitHub Profile Generator to make this project, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
