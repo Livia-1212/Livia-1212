@@ -2,9 +2,7 @@
 
 I used GitHub Profile Generator to make this project, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: JAVA / PYTHON / SQL / JS / HTML 
-
-- 🔭 I’m currently working on this page, and I'm in the process of improving my stats below. 
+Skills: JAVA / PYTHON / SQL / JS / HTML / PostgreSQL / Apache / Docker / API / MongoDB / Spring / Alembic
 
 
 
