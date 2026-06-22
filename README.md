@@ -1,4 +1,4 @@
-![banner](github-header-image.png)
+![banner](header-image.png)
 
 ⚖️ NY-admitted Attorney | 💻 M.S. Computer Science @ NJIT
 🔍 Focus: Legal AI, Data Workflows, and Real-World Systems
