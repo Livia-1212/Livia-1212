@@ -1,13 +1,15 @@
 ![Header](./github-header-image.png)
 
-I used GitHub Profile Generator to make this project, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+⚖️ NY-admitted Attorney | 💻 M.S. Computer Science @ NJIT
+🔍 Focus: Legal AI, Data Workflows, and Real-World Systems
 
-Skills: JAVA / PYTHON / SQL / JS / HTML / PostgreSQL / Apache / Docker / API / MongoDB / Spring / Alembic
+I work at the intersection of law, data, and AI systems — turning real-world legal workflows into structured, automatable solutions.
+
+Skills: PYTHON (pandas) / SQL / Java (basic) / LLMs / APIs / Docker / PostgreSQL
+
+
+⭐ "Bridging law and engineering to build systems that make complex work simpler."
 
 
 
-
-
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=livia-1212)](https://github.com/anuraghazra/github-readme-stats)-->
 
